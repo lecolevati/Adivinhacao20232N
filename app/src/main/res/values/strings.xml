@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adivinhacao20232N</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="menor">O valor é menor</string>
+    <string name="maior">O valor é maior</string>
+    <string name="parabens">Parabéns !!!</string>
+    <string name="resultado">Você acertou o número: </string>
+</resources>
